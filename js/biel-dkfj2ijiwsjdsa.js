@@ -41,4 +41,11 @@ const pageData = [
     thema: "e-commerce",
     url: "lp/ecom2.html",
   },
+  {
+    name: "Slots",
+    type: "Landing Page",
+    niche: "Slot",
+    thema: "e-commerce",
+    url: "lp/slot.html",
+  }
 ];
