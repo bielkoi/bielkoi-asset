@@ -70,5 +70,13 @@ const pageData = [
     thema: "e-commerce",
     url: "lp/slot3.html",
     date: "2026-04-10" // New field
+  },
+  {
+    name: "Windows 98",
+    type: "Landing Page",
+    niche: "Slot",
+    thema: "e-commerce",
+    url: "lp/koiwin.html",
+    date: "2026-04-12" // New field
   }
 ];
