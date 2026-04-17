@@ -373,7 +373,7 @@ body {
 /* --- SEARCH BAR PREMIUM --- */
 .form-control {
     background: rgba(255,255,255,0.03) !important;
-    border: 1px solid var(--border-glass) !important;
+    border: 1px solid white !important;
     border-radius: 8px !important;
     color: #fff !important;
     font-size: 0.85rem !important;
