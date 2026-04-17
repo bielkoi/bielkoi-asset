@@ -5,6 +5,7 @@ const pageData = [
     niche: "Togel",
     thema: "profil",
     url: "lp/formula1.html",
+    date: "2026-04-10" // New field
   },
   {
     name: "Yu Gi OH",
@@ -12,6 +13,7 @@ const pageData = [
     niche: "AMP",
     thema: "AMP",
     url: "amp/yugioh.html",
+    date: "2026-04-10" // New field
   },
   {
     name: "Simple AMP",
@@ -19,6 +21,7 @@ const pageData = [
     niche: "AMP",
     thema: "AMP",
     url: "amp/techno2.html",
+    date: "2026-04-10" // New field
   },
   {
     name: "E-commerce Red Black",
@@ -26,6 +29,7 @@ const pageData = [
     niche: "Togel",
     thema: "e-commerce",
     url: "lp/ecom.html",
+    date: "2026-04-10" // New field
   },
   {
     name: "Gundam",
@@ -33,6 +37,7 @@ const pageData = [
     niche: "Togel",
     thema: "e-commerce",
     url: "lp/gundam.html",
+    date: "2026-04-10" // New field
   },
   {
     name: "Circle Logo",
@@ -40,6 +45,7 @@ const pageData = [
     niche: "Togel",
     thema: "e-commerce",
     url: "lp/ecom2.html",
+    date: "2026-04-10" // New field
   },
   {
     name: "Slots",
@@ -47,5 +53,6 @@ const pageData = [
     niche: "Slot",
     thema: "e-commerce",
     url: "lp/slot.html",
+    date: "2026-04-10" // New field
   }
 ];
