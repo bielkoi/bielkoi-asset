@@ -94,5 +94,13 @@ const pageData = [
     thema: "e-commerce",
     url: "lp/toto2.html",
     date: "2026-04-12" // New field
+  },
+  {
+    name: "Green TOTO",
+    type: "Landing Page",
+    niche: "Togel",
+    thema: "e-commerce",
+    url: "lp/toto3.html",
+    date: "2026-04-18" // New field
   }
 ];
