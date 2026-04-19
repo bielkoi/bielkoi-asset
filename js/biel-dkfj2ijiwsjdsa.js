@@ -110,5 +110,13 @@ const pageData = [
     thema: "Blog",
     url: "lp/toto4.html",
     date: "2026-04-18" // New field
+  },
+  {
+    name: "Argos.co.uk",
+    type: "Landing Page",
+    niche: "Togel",
+    thema: "e-commerce",
+    url: "lp/toto.html",
+    date: "2026-04-19" // New field
   }
 ];
