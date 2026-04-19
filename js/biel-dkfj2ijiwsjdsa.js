@@ -116,7 +116,7 @@ const pageData = [
     type: "Landing Page",
     niche: "Togel",
     thema: "e-commerce",
-    url: "lp/toto.html",
+    url: "lp/toto7.html",
     date: "2026-04-19" // New field
   }
 ];
