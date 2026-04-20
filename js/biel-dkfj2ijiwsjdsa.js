@@ -118,5 +118,13 @@ const pageData = [
     thema: "e-commerce",
     url: "lp/toto7.html",
     date: "2026-04-19" // New field
+  },
+  {
+    name: "komputermedan.com",
+    type: "Landing Page",
+    niche: "Togel",
+    thema: "e-commerce",
+    url: "lp/toto8.html",
+    date: "2026-04-20" // New field
   }
 ];
