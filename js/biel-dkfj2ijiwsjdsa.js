@@ -134,5 +134,14 @@ const pageData = [
     thema: "e-commerce",
     url: "lp/toto9.html",
     date: "2026-04-22" // New field
+  },
+  {
+    name: "Dark Shining",
+    type: "AMP",
+    niche: "AMP",
+    thema: "AMP",
+    url: "lp/dark.html",
+    date: "2026-04-22" // New field
   }
+  
 ];
