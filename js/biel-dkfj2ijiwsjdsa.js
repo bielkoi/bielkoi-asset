@@ -126,5 +126,13 @@ const pageData = [
     thema: "e-commerce",
     url: "lp/toto8.html",
     date: "2026-04-20" // New field
+  },
+  {
+    name: "startech.com.bd",
+    type: "Landing Page",
+    niche: "Togel",
+    thema: "e-commerce",
+    url: "lp/toto9.html",
+    date: "2026-04-22" // New field
   }
 ];
