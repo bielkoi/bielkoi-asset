@@ -142,6 +142,14 @@ const pageData = [
     thema: "AMP",
     url: "amp/dark.html",
     date: "2026-04-22" // New field
+  },
+  {
+    name: "decathlon.com.kh",
+    type: "Landing Page",
+    niche: "Togel",
+    thema: "e-commerce",
+    url: "lp/toto11.html",
+    date: "2026-04-23" // New field
   }
   
 ];
