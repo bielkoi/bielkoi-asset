@@ -164,7 +164,7 @@ const pageData = [
     type: "AMP",
     niche: "AMP",
     thema: "AMP",
-    url: "amp/redanje.html",
+    url: "amp/responsive-amp.html",
     date: "2026-04-25" // New field
   }
   
