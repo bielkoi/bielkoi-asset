@@ -158,6 +158,14 @@ const pageData = [
     thema: "AMP",
     url: "amp/redanje.html",
     date: "2026-04-24" // New field
+  },
+  {
+    name: "Responsive AMP",
+    type: "AMP",
+    niche: "AMP",
+    thema: "AMP",
+    url: "amp/redanje.html",
+    date: "2026-04-25" // New field
   }
   
 ];
