@@ -166,6 +166,14 @@ const pageData = [
     thema: "AMP",
     url: "amp/responsive-amp.html",
     date: "2026-04-25" // New field
+  },
+  {
+    name: "Slot APK",
+    type: "Landing Page",
+    niche: "Slot",
+    thema: "e-commerce",
+    url: "lp/slot5.html",
+    date: "2026-04-25" // New field
   }
   
 ];
